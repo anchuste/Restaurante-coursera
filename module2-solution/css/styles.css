@@ -24,6 +24,11 @@ section {
   /*background-color:  #8B008B; /* Color violeta */
   }
 
+  /* Simple Responsive Framework. */
+.row {
+  width: 100%;
+}
+
 #section1 {
   /*background-color: #8B008B*/;
 }
@@ -31,15 +36,10 @@ section {
   background-color: #DEB887;
 }
 
-/* Simple Responsive Framework. */
-.row {
-  width: 100%;
-}
-
 /********** Large devices only **********/
 @media (min-width: 1001px) {
   #section1 {
-    width: 90%;
+    width: 30%;
     background-color: #8B008B
   }
   #section2 {
@@ -50,7 +50,7 @@ section {
 /********** Medium devices only **********/
 @media (min-width: 800px) and (max-width: 1000px) {
   #section1 {
-    width: 50%;
+    width: 30%;
     background-color: #FF8C00
   }
 }
