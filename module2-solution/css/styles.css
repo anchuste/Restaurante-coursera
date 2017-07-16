@@ -23,8 +23,7 @@ section {
   border: 1px solid black;
   background-color:  #8B008B; /* Color violeta */
   width: 90%;
-  height: 150px;
- }
+  }
 
 /* Simple Responsive Framework. */
 .row {
