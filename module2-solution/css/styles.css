@@ -22,6 +22,8 @@ p {
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
+  margin-bottom: 15px;
+
 }
 
 .col-md-1{
