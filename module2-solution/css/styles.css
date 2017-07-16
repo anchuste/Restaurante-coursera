@@ -3,7 +3,9 @@
   box-sizing: border-box;
 }
 h1 {
+  width: 90%;
   margin-bottom: 15px;
+  float: center;
 }
 
 p {
