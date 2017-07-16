@@ -19,18 +19,17 @@ p {
   color: white;
 }
 
-.col-md-1{
-    float: left;
-    border: 1px solid green;
-  }
-
-  /* Simple Responsive Framework. */
+/* Simple Responsive Framework. */
 .row {
   width: 100%;
 }
 
 /********** Large devices only **********/
 @media (min-width: 1001px) {
+  .col-md-1{
+    float: left;
+    border: 1px solid green;
+  }
   .col-md-1 {
     width: 8.33%;
   }
@@ -38,6 +37,10 @@ p {
 
 /********** Medium devices only **********/
 @media (min-width: 800px) and (max-width: 1000px) {
+  .col-md-1{
+    float: left;
+    border: 1px solid green;
+  }
   .col-md-1 {
     width: 8.33%;
   }
