@@ -43,6 +43,9 @@ section {
 
 /********** Large devices only **********/
 @media (min-width: 1001px) {
+  .col-md-1 {
+    width: 8.33%;
+  }
   #section1 {
     width: 30%;
     background-color: #8B008B
@@ -54,6 +57,9 @@ section {
 
 /********** Medium devices only **********/
 @media (min-width: 800px) and (max-width: 1000px) {
+  .col-md-1 {
+    width: 8.33%;
+  }
   #section1 {
     width: 30%;
     background-color: #FF8C00
