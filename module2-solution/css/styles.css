@@ -8,6 +8,13 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  text-align: right;
+  position: relative;
+  top: 65px;
+  left: 65px;
+}
+
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
