@@ -30,7 +30,8 @@ h2 {
   }
 
   .col-md-2{
-    border: 1px solid green;
+    width: 50px;
+    border: 2px solid green;
     background-color: #A52A2A;
     text-align: right;
   }
