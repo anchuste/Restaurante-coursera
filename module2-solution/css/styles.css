@@ -29,14 +29,6 @@ h2 {
     background-color: #A52A2A;
   }
 
-  .col-md-2{
-    position: relative;
-    right: : 65px;
-    width: 50px;
-    border: 2px solid green;
-    background-color: #A52A2A;
-  }
-
 /********** Large devices only **********/
 @media (min-width: 992px) {
   .col-md-1 {
