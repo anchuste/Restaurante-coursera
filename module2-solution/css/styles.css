@@ -13,7 +13,7 @@ h2 {
   position: relative;
   margin-right: 5px;
   border: 3px solid white;
-  right: 65px;
+  text-align: right;
 }
 
 /* Simple Responsive Framework. */
