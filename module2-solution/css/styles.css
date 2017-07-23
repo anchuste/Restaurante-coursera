@@ -29,6 +29,12 @@ h2 {
     background-color: #A52A2A;
   }
 
+  .col-md-2{
+    float: right;
+    border: 1px solid green;
+    background-color: #A52A2A;
+  }
+
 /********** Large devices only **********/
 @media (min-width: 992px) {
   .col-md-1 {
