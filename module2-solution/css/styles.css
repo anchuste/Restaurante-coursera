@@ -18,13 +18,13 @@ h2 {
 }
 p {
   width: 50px;
-  border: 1px solid black;
+  border: 1px solid white;
 }
 #p1 {
   background-color: #A52A2A;
   position: relative;
-  top: 5px;
-  left: 65px;
+  top: 1px;
+  right: 65px;
 }
 
 /* Simple Responsive Framework. */
