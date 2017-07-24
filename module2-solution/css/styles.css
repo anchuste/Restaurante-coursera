@@ -18,13 +18,14 @@ h2 {
 }
 p {
   width: 100px;
-  border: 1px solid white;
+  border: 2px solid white;
 }
+
 #p1 {
   background-color: #A52A2A;
   position: relative;
   top: 5px;
-  left: 95%;
+  left: 80%;
 }
 
 /* Simple Responsive Framework. */
