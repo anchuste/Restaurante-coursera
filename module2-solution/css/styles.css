@@ -43,6 +43,7 @@ p {
     float: left;
     border: 2px solid white;
     background-color: #A52A2A;
+    height: 10%;
   }
 
 /********** Large devices only **********/
