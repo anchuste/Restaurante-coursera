@@ -40,10 +40,15 @@ p {
   }
 
   .col-md-3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0000ff;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 24px;
     float: left;
     border: 2px solid white;
     background-color: #A52A2A;
-    height: 10%;
+    height: 20%;
   }
 
 /********** Large devices only **********/
