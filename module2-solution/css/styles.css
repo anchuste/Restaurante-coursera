@@ -50,7 +50,7 @@ p {
     font-size: 24px;
     float: left;
     border: 2px solid #ffffff; /* Golden Rod */
-    background-color: #FF8C00; /* DarkOrange */
+    background-color: #FF69B4; /* Hot Pink */
     height: 20%;
     text-align: right;
   }
@@ -61,7 +61,7 @@ p {
     font-weight: bold;
     font-size: 24px;
     float: left;
-    background-color: #9400D3; /* DarkViolet */
+    background-color: #CD5C5C; /* Indian Red */
     height: 20%;
   }
 
