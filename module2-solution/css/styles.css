@@ -37,7 +37,7 @@ p {
     float: left;
     border: 1px solid black;
     font-family: Verdana;
-    font-size: 12px;
+    font-size: 18px;
     background-color: #9400D3; /* DarkViolet */
     color: #ffffff; /* White */
   }
@@ -50,7 +50,7 @@ p {
     font-size: 24px;
     float: left;
     border: 2px solid white;
-    background-color: #A52A2A;
+    background-color: #9400D3; /* DarkViolet */
     height: 20%;
   }
   .col-md-2{
@@ -60,7 +60,7 @@ p {
     font-weight: bold;
     font-size: 24px;
     float: left;
-    background-color: #A52A2A;
+    background-color: #9400D3; /* DarkViolet */
     height: 20%;
   }
 
