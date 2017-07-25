@@ -36,7 +36,8 @@ p {
 .col-md-1{
     float: left;
     border: 1px solid black;
-    font-family: "Lucida Console";
+    font-family: Verdana;
+    font-size: 12px;
     background-color: #9400D3; /* DarkViolet */
     color: #ffffff; /* White */
   }
